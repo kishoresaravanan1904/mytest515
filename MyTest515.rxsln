@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# Ranorex Studio 11.0.0
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTest515", "MyTest515\MyTest515.csproj", "{ACEF9946-D5CB-4A0B-902F-A45E3F5BD430}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F65620F5-0C2D-4695-8678-6D820BA99908}"
+	ProjectSection(SolutionItems) = postProject
+		Ranorex = .\Ranorex.rxsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ranorex Automation Helpers", "RanorexAutomationHelpers\Ranorex Automation Helpers.csproj", "{48BB5314-CD3D-4E5D-B94F-5A6D47C71C3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACEF9946-D5CB-4A0B-902F-A45E3F5BD430}.Debug|x86.Build.0 = Debug|x86
+		{ACEF9946-D5CB-4A0B-902F-A45E3F5BD430}.Debug|x86.ActiveCfg = Debug|x86
+		{ACEF9946-D5CB-4A0B-902F-A45E3F5BD430}.Release|x86.Build.0 = Release|x86
+		{ACEF9946-D5CB-4A0B-902F-A45E3F5BD430}.Release|x86.ActiveCfg = Release|x86
+		{48BB5314-CD3D-4E5D-B94F-5A6D47C71C3D}.Debug|x86.Build.0 = Debug|x86
+		{48BB5314-CD3D-4E5D-B94F-5A6D47C71C3D}.Debug|x86.ActiveCfg = Debug|x86
+		{48BB5314-CD3D-4E5D-B94F-5A6D47C71C3D}.Release|x86.Build.0 = Release|x86
+		{48BB5314-CD3D-4E5D-B94F-5A6D47C71C3D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
